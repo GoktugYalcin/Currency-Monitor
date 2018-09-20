@@ -1,0 +1,16 @@
+c:\users\monster\source\repos\Döviz Programı\Döviz Programı\bin\Debug\Döviz Programı.exe.config
+c:\users\monster\source\repos\Döviz Programı\Döviz Programı\bin\Debug\Döviz Programı.exe
+c:\users\monster\source\repos\Döviz Programı\Döviz Programı\bin\Debug\Döviz Programı.pdb
+c:\users\monster\source\repos\Döviz Programı\Döviz Programı\obj\Debug\Döviz Programı.csprojResolveAssemblyReference.cache
+c:\users\monster\source\repos\Döviz Programı\Döviz Programı\obj\Debug\Döviz_Programı.Form1.resources
+c:\users\monster\source\repos\Döviz Programı\Döviz Programı\obj\Debug\Döviz_Programı.Properties.Resources.resources
+c:\users\monster\source\repos\Döviz Programı\Döviz Programı\obj\Debug\Döviz Programı.csproj.GenerateResource.Cache
+c:\users\monster\source\repos\Döviz Programı\Döviz Programı\obj\Debug\Döviz Programı.csproj.CoreCompileInputs.cache
+c:\users\monster\source\repos\Döviz Programı\Döviz Programı\obj\Debug\Döviz Programı.exe
+c:\users\monster\source\repos\Döviz Programı\Döviz Programı\obj\Debug\Döviz Programı.pdb
+C:\Users\MONSTER\source\repos\Döviz Programı\Döviz Programı\bin\Debug\Json.dll
+C:\Users\MONSTER\source\repos\Döviz Programı\Döviz Programı\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTER\source\repos\Döviz Programı\Döviz Programı\bin\Debug\Json.pdb
+C:\Users\MONSTER\source\repos\Döviz Programı\Döviz Programı\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MONSTER\source\repos\Döviz Programı\Döviz Programı\obj\Debug\Döviz_Programı.KurListesi.resources
+C:\Users\MONSTER\source\repos\Döviz Programı\Döviz Programı\obj\Debug\Döviz_Programı.KurSecim.resources
